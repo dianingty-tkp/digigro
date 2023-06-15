@@ -1,0 +1,146 @@
+disease,details
+Apple___Apple_scab,"Apple scab
+
+Apple scab is a fungal disease that affects apple trees, causing dark, scaly lesions on the fruit, leaves, and twigs.
+
+To manage this disease, it is important to prune and destroy infected plant parts, apply fungicides during the growing season, and ensure good air circulation around the trees by proper spacing and pruning to reduce moisture levels and minimize disease spread."
+Apple___Black_rot,"Black rot
+
+Black rot is a fungal disease that affects apple trees, leading to dark, circular lesions on the fruit and leaves. 
+
+To manage black rot, it is crucial to remove and destroy infected fruits, improve air circulation by pruning branches, applying appropriate fungicides during the growing season, and practicing good sanitation by removing fallen leaves and fruits from the ground to prevent the spread of the disease."
+Apple___Cedar_apple_rust,"Cedar apple rust
+
+Cedar apple rust is a fungal disease that affects apple trees, causing bright orange, spore-filled lesions on the leaves, fruit, and twigs. 
+
+To manage cedar apple rust, it is essential to remove any nearby cedar or juniper trees, as they serve as alternate hosts for the disease. Additionally, applying fungicides at the appropriate times during the growing season and practicing good sanitation by removing infected plant parts can help control and prevent the spread of cedar apple rust."
+Apple___healthy,Good job! Your apple tree is healthy!
+Blueberry___healthy,Good job! Your blueberry tree is healthy!
+Cherry_(including_sour)___healthy,Good job! Your cherry tree is healthy!
+Cherry_(including_sour)___Powdery_mildew,"Powdery mildew
+
+Powdery mildew is a fungal disease that affects cherry trees, resulting in a powdery white coating on the leaves, stems, and fruit
+
+To manage powdery mildew, it is important to promote good air circulation by pruning and thinning branches, avoiding overhead irrigation, and applying fungicides at the first signs of infection. Regularly monitoring the tree for early symptoms and removing any infected plant parts can also help control the spread of powdery mildew."
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,"Cercospora leaf spot
+
+Cercospora leaf spot, also known as gray leaf spot, is a fungal disease that affects corn (maize) plants, causing small, rectangular, gray or tan lesions on the leaves
+
+To manage this disease, it is recommended to plant resistant corn varieties, practice crop rotation, ensure proper spacing between plants for good air circulation, and apply fungicides if necessary. Additionally, removing and destroying crop debris after harvest can help reduce overwintering fungal spores."
+Corn_(maize)___Common_rust_,"Common rust
+Common rust is a fungal disease that affects corn (maize) plants, characterized by small, reddish-brown pustules that appear on the leaves, husks, and stalks
+
+To manage common rust, it is important to choose resistant corn varieties, practice crop rotation, provide adequate spacing between plants for good air circulation, and apply fungicides if necessary. Regular scouting and monitoring of the crop can help identify the disease early, allowing for timely management interventions."
+Corn_(maize)___healthy,Good job! Your corn plant is healthy!
+Corn_(maize)___Northern_Leaf_Blight,"Northern leaf blight
+
+Northern leaf blight is a fungal disease that affects corn (maize) plants, causing long, cigar-shaped lesions with grayish-green centers on the leaves
+
+To manage northern leaf blight, it is recommended to plant resistant corn varieties, practice crop rotation, provide proper spacing between plants to improve air circulation, and apply fungicides if necessary. Regular scouting and early detection of the disease are crucial for effective management and minimizing yield losses."
+Grape___Black_rot,"Black rot
+
+Black rot is a fungal disease that affects grapevines, leading to black, circular lesions on the leaves, fruit, and stems. 
+
+To manage black rot, it is important to prune and remove infected plant parts, practice proper vineyard sanitation by removing fallen leaves and fruit mummies, apply appropriate fungicides during the growing season, and promote good air circulation through proper vine spacing and canopy management. Regular monitoring and early intervention are key to controlling and preventing the spread of black rot in grapevines."
+Grape___Esca_(Black_Measles),"Esca (Black Measles)
+
+Esca, also known as Black Measles, is a fungal disease that affects grapevines, causing black or brown streaks in the wood, leaf discoloration, and eventual vine decline. 
+
+To manage Esca, it is important to implement preventive measures such as planting resistant grapevine varieties, practicing proper vineyard sanitation by removing infected wood and pruning wounds, and reducing stress factors like drought and nutrient imbalances. Regular monitoring, early detection, and prompt action are crucial in managing Esca and preserving grapevine health."
+Grape___healthy,Good job! Your grape plant is healthy!
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),"Leaf Blight (Isariopsis Leaf Spot)
+
+Leaf blight, also known as Isariopsis Leaf Spot, is a fungal disease that affects grapevines, causing brown lesions with dark borders on the leaves, which may lead to defoliation if severe.
+
+To manage Leaf Blight, it is important to practice good vineyard sanitation by removing and destroying infected leaves, promoting good air circulation through proper vine spacing and canopy management, and applying appropriate fungicides during the growing season. Regular monitoring, early detection, and maintaining overall vine health are essential for effective management of Leaf Blight."
+Orange___Haunglongbing_(Citrus_greening),"Huanglongbing (Citrus Greening)
+
+Huanglongbing, also known as Citrus Greening, is a devastating bacterial disease that affects citrus trees, causing yellowing of leaves, stunted growth, and bitter, deformed fruits.
+
+To manage Huanglongbing, it is crucial to promptly remove and destroy infected trees, practice insect control to limit the spread of the disease-carrying psyllids, and employ intensive management practices such as regular monitoring, pruning, and nutrient management to promote tree health. Additionally, using disease-resistant citrus varieties and implementing strict quarantine measures can help prevent the introduction and spread of Huanglongbing."
+Peach___Bacterial_spot,"Bacterial Spot
+
+Bacterial spot is a bacterial disease that affects peach trees, causing dark, raised lesions on the leaves, fruit, and stems.
+
+To manage bacterial spot, it is important to prune and destroy infected plant parts, practice proper orchard sanitation by removing fallen leaves and fruit, apply copper-based fungicides during the dormant season and after rainfall, and promote good air circulation through proper tree spacing and pruning. Regular monitoring and early detection are key to effectively managing bacterial spot in peach trees."
+Peach___healthy,Good job! Your peach tree is healthy!
+"Pepper,_bell___Bacterial_spot","Bacterial Spot
+
+Bacterial spot is a bacterial disease that affects bell pepper plants, causing dark, water-soaked lesions on the leaves, fruit, and stems.
+
+To manage bacterial spot, it is important to practice crop rotation, remove and destroy infected plants, avoid overhead irrigation to minimize moisture on the leaves, apply copper-based or streptomycin-based sprays according to label instructions, and promote good air circulation through proper plant spacing. Regular monitoring and early intervention are crucial for managing bacterial spot in bell pepper plants."
+"Pepper,_bell___healthy",Good job! Your pepper bell plant is healthy!
+Potato___Early_blight,"Early Blight
+
+Early blight is a fungal disease that affects potato plants, causing dark, concentric lesions on the leaves and stems, eventually leading to premature defoliation.
+
+To manage early blight, it is important to practice crop rotation, remove and destroy infected plant debris, provide proper spacing between plants for good air circulation, apply fungicides according to label instructions, and promote overall plant health through adequate nutrition and irrigation. Regular monitoring and early detection are vital for effective management of early blight in potato plants."
+Potato___healthy,Good job! Your potato plant is healthy!
+Potato___Late_blight,"Late Blight
+
+Late blight is a devastating fungal disease that affects potato plants, causing dark, water-soaked lesions on the leaves, stems, and tubers, often accompanied by a white, fuzzy mold growth.
+
+To manage late blight, it is crucial to practice good field sanitation by removing and destroying infected plants and tubers, ensure proper spacing between plants for improved air circulation, apply fungicides preventively and curatively, and monitor weather conditions for conducive periods of disease development. Early detection, prompt action, and the use of resistant potato varieties can greatly aid in the management of late blight.
+
+
+
+
+"
+Soybean___healthy,Good job! Your soybean plant is healthy!
+Squash___Powdery_mildew,"Powdery Mildew
+
+Powdery mildew is a fungal disease that affects squash plants, characterized by a white, powdery coating on the leaves, stems, and fruits.
+
+To manage powdery mildew, it is important to provide adequate spacing between plants for good air circulation, avoid overhead irrigation to minimize moisture on the leaves, apply fungicides according to label instructions, and remove and destroy infected plant parts. Additionally, selecting resistant squash varieties and regularly monitoring the plants for early signs of infection can help in the effective management of powdery mildew."
+Strawberry___healthy,Good job! Your strawberry plant is healthy!
+Strawberry___Leaf_scorch,"Leaf Scorch
+
+Leaf scorch is a fungal disease that affects strawberry plants, causing browning, necrotic lesions on the leaves and leaf margins.
+
+To manage leaf scorch, it is important to practice good sanitation by removing and destroying infected leaves, provide proper spacing between plants for improved air circulation, avoid overhead irrigation to minimize leaf wetness, and apply fungicides according to label instructions. Regular monitoring and early intervention are essential to effectively manage leaf scorch in strawberry plants and minimize its impact on overall plant health."
+Tomato___Bacterial_spot,"Bacterial Spot
+
+Bacterial spot is a bacterial disease that affects tomato plants, causing dark, raised lesions with a water-soaked appearance on the leaves, stems, and fruit.
+
+To manage bacterial spot, it is important to practice crop rotation, remove and destroy infected plants, avoid overhead irrigation to minimize leaf wetness, apply copper-based or streptomycin-based sprays according to label instructions, and promote good air circulation through proper plant spacing. Regular monitoring, early detection, and the use of disease-resistant tomato varieties are key in effectively managing bacterial spot in tomato plants."
+Tomato___Early_blight,"Early Blight
+
+Early blight is a fungal disease that affects tomato plants, characterized by dark, concentric lesions on the leaves, starting from the lower foliage and progressing upward.
+
+To manage early blight, it is important to practice crop rotation, remove and destroy infected plant debris, provide proper plant spacing for good air circulation, apply fungicides according to label instructions, and ensure adequate soil drainage. Regular monitoring, timely pruning of affected leaves, and maintaining overall plant health through proper nutrition and irrigation are essential for effective management of early blight in tomato plants."
+Tomato___healthy,Good job! Your tomato plant is healthy!
+Tomato___Late_blight,"Late Blight
+
+Late blight is a devastating fungal disease that affects tomato plants, causing dark, water-soaked lesions on the leaves, stems, and fruit, often accompanied by a white, fuzzy mold growth.
+
+To manage late blight, it is crucial to practice good field sanitation by removing and destroying infected plants, ensure proper spacing between plants for improved air circulation, apply fungicides preventively and curatively, and monitor weather conditions for conducive periods of disease development. Early detection, prompt action, and the use of resistant tomato varieties can greatly aid in the management of late blight. Additionally, avoiding overhead irrigation and providing adequate plant support can help reduce leaf wetness and minimize the risk of infection."
+Tomato___Leaf_Mold,"Leaf Mold
+
+Leaf mold is a fungal disease that affects tomato plants, causing yellowing and upward curling of leaves, along with the development of brown or grayish velvety patches on the undersides of leaves.
+
+To manage leaf mold, it is important to provide good air circulation by spacing plants adequately, avoid overhead irrigation to minimize leaf wetness, and remove and destroy infected leaves. Applying fungicides labeled for leaf mold control can also help manage the disease. Regular monitoring, early detection, and maintaining proper plant hygiene are key to effectively managing leaf mold in tomato plants."
+Tomato___Septoria_leaf_spot,"Septoria Leaf Spot
+
+Septoria leaf spot is a fungal disease that affects tomato plants, characterized by the appearance of small, dark spots with gray centers and yellow halos on the leaves.
+
+To manage Septoria leaf spot, it is important to practice good plant hygiene by removing and destroying infected leaves, provide proper plant spacing for improved air circulation, avoid overhead irrigation to minimize leaf wetness, and apply fungicides labeled for Septoria control. Regular monitoring, early detection, and maintaining overall plant health through proper nutrition and irrigation are crucial for effective management of Septoria leaf spot in tomato plants."
+Tomato___Spider_mites Two-spotted_spider_mite,"Spider Mites (Two-spotted Spider Mite)
+
+Spider mites, specifically the two-spotted spider mite, are tiny pests that affect tomato plants, causing visible stippling, yellowing, and webbing on the leaves.
+
+To manage spider mites, it is important to regularly inspect plants for early signs of infestation, increase humidity levels around the plants, employ natural predators like predatory mites, use a strong stream of water to wash off mites from leaves, and apply insecticidal soaps or horticultural oils according to label instructions. Creating an unfavorable environment for spider mites by maintaining proper plant health and reducing stress factors can also help prevent their infestation."
+Tomato___Target_Spot,"Target Spot
+
+Target spot is a fungal disease that affects tomato plants, causing circular lesions with concentric rings and a bullseye-like appearance on the leaves, often leading to defoliation.
+
+To manage target spot, it is important to practice good plant hygiene by removing and destroying infected leaves, provide proper plant spacing for improved air circulation, avoid overhead irrigation to minimize leaf wetness, and apply fungicides labeled for target spot control. Regular monitoring, early detection, and maintaining overall plant health through proper nutrition and irrigation are crucial for effective management of target spot in tomato plants."
+Tomato___Tomato_mosaic_virus,"Tomato Mosaic Virus
+
+Tomato mosaic virus is a viral disease that affects tomato plants, causing mosaic patterns of light and dark green on the leaves, stunted growth, and deformed fruits.
+
+To manage tomato mosaic virus, it is important to practice strict hygiene measures, such as washing hands and tools, to prevent the spread of the virus. Using virus-free seeds or transplants, controlling insect vectors, and removing and destroying infected plants can help manage the disease. Additionally, avoiding tobacco products around tomato plants and practicing crop rotation are recommended."
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,"Tomato Yellow Leaf Curl Virus
+
+Tomato Yellow Leaf Curl Virus (TYLCV) is a viral disease that affects tomato plants, causing yellowing and upward curling of the leaves, stunted growth, and reduced fruit production.
+
+To manage Tomato Yellow Leaf Curl Virus, it is important to use virus-resistant tomato varieties, employ strict hygiene practices to prevent the spread of the virus, control the whitefly population which acts as a vector for the disease, and remove and destroy infected plants. Implementing physical barriers such as insect nets can also help reduce whitefly infestation and subsequent transmission of the virus. Early detection and prompt action are crucial for managing Tomato Yellow Leaf Curl Virus and minimizing its impact on tomato plants."
