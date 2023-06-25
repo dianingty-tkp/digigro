@@ -1,10 +1,12 @@
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 import matplotlib.pyplot as plt
 import numpy as np
 import json
+import pandas as pd
 
 import os
 
@@ -14,10 +16,10 @@ input_shape = (180, 180, 3)
 batch_size = 32
 n_cat=38
 
-epochs = 30
-output_dir = "20230612_01"
-steps_per_epoch = 1758
-validation_steps = 440
+epochs = 25
+output_dir = "20230625_01"
+steps_per_epoch = None #1758
+validation_steps = None #440
 base_dir = "dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train"
 test_dir = "dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/valid"
 
@@ -41,18 +43,20 @@ params = {
 params_path = os.path.join(output_dir, "params.json")
 with open(params_path, "w") as f:
     json.dump(params_path, f)
+    
+dataset = pd.read_csv("dataset.csv")
+    
+train_datagen = ImageDataGenerator(rescale = 1./255,
+                                   shear_range = 0.2,
+                                   zoom_range = 0.2,
+                                   horizontal_flip = True)
 
 # Import data
-print("Import data...")
-train_data, val_data = tf.keras.utils.image_dataset_from_directory(
-    "dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/train",
-    validation_split=0.2,
-    subset="both",
-    seed=1234,
-    label_mode="categorical",
-    image_size=image_size,
-    batch_size=batch_size,
-)
+print("Load image...")
+training_set = train_datagen.flow_from_dataframe(dataframe=dataset,
+                                             x_col="file_path", y_col="label",
+                                             class_mode="categorical",
+                                             target_size=image_size, batch_size=batch_size)
 
 # Create classes index file
 # print("Classes index file...")
@@ -90,19 +94,23 @@ model = keras.Model(inputs = inputs,
                     name="LeafDisease_MobileNet")
 
 optimizer = tf.keras.optimizers.Adam()
-earlystop = tf.keras.callbacks.EarlyStopping(monitor='loss', patience=3)
+# earlystop = tf.keras.callbacks.EarlyStopping(monitor='loss', patience=3)
 
 model.compile(optimizer = optimizer,
               loss = tf.keras.losses.CategoricalCrossentropy(from_logits = True),
               metrics=[keras.metrics.CategoricalAccuracy(), 
                        'accuracy'])
 
-history = model.fit(train_data,
-                    validation_data=val_data,
+# history = model.fit(training_set,
+#                     validation_data=val_data,
+#                     epochs=epochs,
+#                     steps_per_epoch=steps_per_epoch,
+#                     callbacks=[earlystop],
+#                     validation_steps=validation_steps)
+
+history = model.fit(training_set,
                     epochs=epochs,
-                    steps_per_epoch=steps_per_epoch,
-                    callbacks=[earlystop],
-                    validation_steps=validation_steps)
+                    steps_per_epoch=steps_per_epoch)
 
 # test model
 print("Evaluate model...")

@@ -9,7 +9,7 @@ import pandas as pd
 
 class DiseasePrediction:
     def __init__(self,
-                model_path="20230612_01/plant_disease",
+                model_path="20230625_01/plant_disease",
                 class_indices_path="class_indices.json",
                 disease_details_path="disease_details.csv"):
         self.model_path = model_path
